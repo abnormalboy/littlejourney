@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abnormalboy.github.io/littlejourney/sitemap.xml
