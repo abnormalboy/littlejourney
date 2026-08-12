@@ -6,3 +6,10 @@
 - 支持：https://abnormalboy.github.io/littlejourney/support/
 - 隐私：https://abnormalboy.github.io/littlejourney/privacy/
 - 条款：https://abnormalboy.github.io/littlejourney/terms/
+
+English:
+
+- Home: https://abnormalboy.github.io/littlejourney/en/
+- Support: https://abnormalboy.github.io/littlejourney/en/support/
+- Privacy: https://abnormalboy.github.io/littlejourney/en/privacy/
+- Terms: https://abnormalboy.github.io/littlejourney/en/terms/
